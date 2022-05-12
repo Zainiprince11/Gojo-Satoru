@@ -15,22 +15,22 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'd6295ca53e', // if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '54AE5A926603', // if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['918129624395','919037058796']
-global.premium = ['918129624395']
-global.ownernomer = '918129624395'
-global.ownername = '🐦Star Boy Nexus'
+global.owner = ['923064974156','19042223301']
+global.premium = ['923064974156']
+global.ownernomer = '19042223301'
+global.ownername = '🐦PrinceHacker'
 global.botname = 'Prince'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.footer = '©PrinceHacker.'
+global.ig = 'https://github.com/prince'
+global.region = 'Pakistan, Pk, PK'
+global.sc = 'https://github.com/nexusNw/aa'
+global.myweb = 'https://youtube.com/channel/'
 global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.author = '🐦PrinceHacker'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'

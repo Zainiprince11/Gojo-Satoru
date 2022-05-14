@@ -19,15 +19,15 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['923064974156','19042223301']
-global.premium = ['923064974156']
-global.ownernomer = '19042223301'
+global.owner = ['923100214228']
+global.premium = ['923100214228']
+global.ownernomer = '923100214228'
 global.ownername = '🐦PrinceHacker'
 global.botname = 'Prince'
 global.footer = '©PrinceHacker.'
 global.ig = 'https://github.com/prince'
 global.region = 'Pakistan, Pk, PK'
-global.sc = 'https://github.com/nexusNw/aa'
+global.sc = 'https://github.com/naNw/aa'
 global.myweb = 'https://youtube.com/channel/'
 global.packname = 'Gojo-Satoru'
 global.author = '🐦PrinceHacker'
